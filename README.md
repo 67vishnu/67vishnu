@@ -2,7 +2,9 @@
 <a href="https://www.linkedin.com/in/vishnu-ghatage-0598b5254" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-As an instructor and cybersecurity expert, I am passionate about equipping learners with hands-on, practical experiences in cybersecurity. Here, you’ll find my popular GitHub projects, books, courses, bootcamp, and upcoming free webinars.
+🔐 Cybersecurity Student | SOC Analyst in Training | Passionate About Ethical Hacking & Threat Analysis
+
+I'm a curious and motivated cybersecurity student exploring real-world threats, blue team tools, and red team techniques. I enjoy working on hands-on labs, participating in CTFs, and building projects that strengthen my understanding of system security, network defense, and incident response.
 
 ## 🚀  GitHub Projects
 
@@ -10,12 +12,8 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 |------------------------------------------------------|---------------------------------------------------------------|
 | [Splunk for Log Analysis](https://github.com/67vishnu/Splunk-Project/tree/main)                 | A comprehensive lab for mastering SIEM and log analysis.      |
 | [Active Directory Monitoring Projects](https://github.com/67vishnu/Active-Directory-Monitoring-Projects)        | Monitoring Active directory events and security alerts      |
-| [Ethical Hacking Projects for Beginners](https://github.com/0xrajneesh/Ethical-Hacking-Projects-for-beginners)               | Hands-on projects for Ethical hacking and penetration testing      |
-| [Windows Forensics Projects for Beginners](https://github.com/0xrajneesh/Windows-Forensics-Projects-for-Beginners)  | Practical excercises on Windows forensics and analysis |
+| [Detection Lab](https://github.com/67vishnu/Detection-Lab)               |    |
+| [Building a Network Envirnoment for organization](https://github.com/67vishnu/Building-Networking-envirnoment-for-organisation)  | Practical excercises on CISCO Packet Tracer|
 
 
-
-
-## Projects
-- <a href="https://github.com/67vishnu/Detection-Lab">Detection Lab</a>  
-- SOC Automation Project
+FUTURE FOCUSED, SECURITY FIRST
