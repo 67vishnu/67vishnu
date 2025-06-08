@@ -5,9 +5,12 @@
 
 
 
+
 🔐 Cybersecurity Student | SOC Analyst in Training | Passionate About Ethical Hacking & Threat Analysis
 
 I'm a curious and motivated cybersecurity student exploring real-world threats, blue team tools, and red team techniques. I enjoy working on hands-on labs, participating in CTFs, and building projects that strengthen my understanding of system security, network defense, and incident response.
+
+
 
 ## 🚀  GitHub Projects
 
@@ -18,7 +21,11 @@ I'm a curious and motivated cybersecurity student exploring real-world threats, 
 | [Detection Lab](https://github.com/67vishnu/Detection-Lab)               | A detection lab is a simulated enterprise environment used to test, analyze, and develop threat detection techniques and security monitoring capabilities.   |
 | [Building a Network Envirnoment for organization](https://github.com/67vishnu/Building-Networking-envirnoment-for-organisation)  | Practical excercises on CISCO Packet Tracer|
 
+
+
 My Blog - Stay Updated
 "https://medium.com/@vishnughatage67"
+
+
 
 FUTURE FOCUSED, SECURITY FIRST
