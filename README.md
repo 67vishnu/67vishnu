@@ -12,7 +12,7 @@ I'm a curious and motivated cybersecurity student exploring real-world threats, 
 |------------------------------------------------------|---------------------------------------------------------------|
 | [Splunk for Log Analysis](https://github.com/67vishnu/Splunk-Project/tree/main)                 | A comprehensive lab for mastering SIEM and log analysis.      |
 | [Active Directory Monitoring Projects](https://github.com/67vishnu/Active-Directory-Monitoring-Projects)        | Monitoring Active directory events and security alerts      |
-| [Detection Lab](https://github.com/67vishnu/Detection-Lab)               |    |
+| [Detection Lab](https://github.com/67vishnu/Detection-Lab)               | A detection lab is a simulated enterprise environment used to test, analyze, and develop threat detection techniques and security monitoring capabilities.   |
 | [Building a Network Envirnoment for organization](https://github.com/67vishnu/Building-Networking-envirnoment-for-organisation)  | Practical excercises on CISCO Packet Tracer|
 
 
