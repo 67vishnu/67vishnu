@@ -9,7 +9,7 @@ As an instructor and cybersecurity expert, I am passionate about equipping learn
 | Project Name                                         | Description                                                   |
 |------------------------------------------------------|---------------------------------------------------------------|
 | [Splunk for Log Analysis](https://github.com/67vishnu/splunk-projects-for-beginners)                 | A comprehensive lab for mastering SIEM and log analysis.      |
-| [Active Directory Monitoring Projects](https://github.com/0xrajneesh/Active-Directory-Monitoring-Projects)        | Monitoring Active directory events and security alerts      |
+| [Active Directory Monitoring Projects](https://github.com/67vishnu/Active-Directory-Monitoring-Projects)        | Monitoring Active directory events and security alerts      |
 | [Ethical Hacking Projects for Beginners](https://github.com/0xrajneesh/Ethical-Hacking-Projects-for-beginners)               | Hands-on projects for Ethical hacking and penetration testing      |
 | [Windows Forensics Projects for Beginners](https://github.com/0xrajneesh/Windows-Forensics-Projects-for-Beginners)  | Practical excercises on Windows forensics and analysis |
 
