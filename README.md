@@ -2,8 +2,8 @@
 <a href="https://www.linkedin.com/in/vishnu-ghatage-0598b5254">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@vishnughatage67">
-<img src="![medium logo](https://github.com/user-attachments/assets/573e908f-dcb7-44dd-a6ad-a82789a24d90)
- /></a>
+
+
 
 🔐 Cybersecurity Student | SOC Analyst in Training | Passionate About Ethical Hacking & Threat Analysis
 
@@ -18,5 +18,7 @@ I'm a curious and motivated cybersecurity student exploring real-world threats, 
 | [Detection Lab](https://github.com/67vishnu/Detection-Lab)               | A detection lab is a simulated enterprise environment used to test, analyze, and develop threat detection techniques and security monitoring capabilities.   |
 | [Building a Network Envirnoment for organization](https://github.com/67vishnu/Building-Networking-envirnoment-for-organisation)  | Practical excercises on CISCO Packet Tracer|
 
+My Blog - Stay Updated
+"https://medium.com/@vishnughatage67"
 
 FUTURE FOCUSED, SECURITY FIRST
