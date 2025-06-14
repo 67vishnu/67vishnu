@@ -6,7 +6,7 @@
 
 
 
-🔐 Cybersecurity Student | SOC Analyst in Training | Passionate About Ethical Hacking & Threat Analysis
+🔐 Cybersecurity Student | Cybersecurity Analyst in Training | Passionate About Ethical Hacking & Threat Analysis
 
 I'm a curious and motivated cybersecurity student exploring real-world threats, blue team tools, and red team techniques. I enjoy working on hands-on labs, participating in CTFs, and building projects that strengthen my understanding of system security, network defense, and incident response.
 
